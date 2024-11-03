@@ -1,5 +1,5 @@
 # ghibli-movies-data
 
-getting ghibli movies data from imdb and related sonds data from spotify api
+getting ghibli movies data from imdb and related songs data from spotify api
 
 
